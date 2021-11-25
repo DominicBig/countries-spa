@@ -1,3 +1,17 @@
+# SPA-project from https://www.frontendmentor.io/
+
+## REST Countries API with color theme switcher
+
+## Used technologies
+
+-Styled components
+-Axios
+-React Select
+-React Icons
+-React Router 6
+
+The site is published at https://dominicbig.github.io/countries-spa/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

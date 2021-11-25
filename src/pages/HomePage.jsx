@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { ALL_COUNTRIES } from "../config";
 import List from "../components/List";
-import Card from "../components/Card";
+import Card from "../components/card/Card";
 import Controls from "../components/Controls";
 
 import { useNavigate } from "react-router-dom";
