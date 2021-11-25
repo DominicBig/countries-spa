@@ -4,11 +4,11 @@
 
 ## Used technologies
 
--Styled components
--Axios
--React Select
--React Icons
--React Router 6
+- Styled components
+- Axios
+- React Select
+- React Icons
+- React Router 6
 
 The site is published at https://dominicbig.github.io/countries-spa/
 
